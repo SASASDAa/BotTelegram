@@ -1,0 +1,7 @@
+aiogram>=3.0.0
+pyrogram>=2.0.0
+Tgcrypto
+aiosqlite
+apscheduler
+google-generativeai
+python-dotenv
