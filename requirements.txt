@@ -1,7 +1,6 @@
-aiogram>=3.0.0
-pyrogram>=2.0.0
-Tgcrypto
-aiosqlite
-apscheduler
-google-generativeai
+asyncpg
 python-dotenv
+pyrogram
+apscheduler
+# Добавьте сюда другие библиотеки, если они используются в проекте,
+# например, google-generativeai для Gemini
