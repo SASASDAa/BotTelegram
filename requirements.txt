@@ -1,6 +1,6 @@
-asyncpg
-python-dotenv
-pyrogram
-apscheduler
-# Добавьте сюда другие библиотеки, если они используются в проекте,
-# например, google-generativeai для Gemini
+asyncpg==0.29.0
+python-dotenv==1.0.1
+pyrogram==2.0.106
+apscheduler==3.10.4
+aiogram==3.7.0
+google-generativeai==0.5.4
